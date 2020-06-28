@@ -1,0 +1,19 @@
+{
+    "name": "Home Work Done",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "multiple",
+        "/category/collection/entity": false,
+        "/category/asset_value_tracking/token/name": "Home Work Done",
+        "/category/asset_value_tracking/token/symbol": "HWD",
+        "/category/asset_value_tracking/token/decimals": "3",
+        "/category/asset_value_tracking/token/supply": "1000000"
+    }
+}
